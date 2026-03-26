@@ -642,3 +642,5 @@ def gw_info_cb(c):
 if __name__ == '__main__':
     threading.Thread(target=timer_loop, daemon=True).start()
     bot.infinity_polling(allowed_updates=['message', 'callback_query', 'chat_join_request'])
+
+
