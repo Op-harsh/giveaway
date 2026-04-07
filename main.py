@@ -12,7 +12,7 @@ import html
 
 # --- SYSTEM SETTINGS ---
 logging.basicConfig(level=logging.INFO)
-BOT_TOKEN = '8787373138:AAF8DYw6_29_6Y_L4jRHU8uZTmhZg-L0G4o'
+BOT_TOKEN = '8787373138:AAF8DYw6_29_Y_L4jRHU8uZTmhZg-L0G4o'
 OWNER_ID = 5524906942
 DB_FILE = 'multi_giveaway_db.json'
 IST = pytz.timezone('Asia/Kolkata')
